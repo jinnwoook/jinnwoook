@@ -33,6 +33,8 @@
 | 🏅 | **아모레퍼시픽 AI 챌린지 2026** - Agent04 | 🎖️ **특별상** | [🔗](https://github.com/jinnwoook/AmorePacific_Agent-2026-_AmoreClue) |
 | 🏅 | **LG Aimers 3기** - 온라인 판매량 예측 | 예선 39/747 → **본선 4th / 43** | [🔗](https://github.com/jinnwoook/LGaimers_3th) |
 | 🏅 | **LG Aimers 5기** - 디지털 트윈 품질 개선 | **본선 6th** | [🔗](https://github.com/jinnwoook/LGaimers_5th) |
+| 🏅 | **K리그-서울시립대 공개 AI 경진대회** | 🎖️ **장려상 (6th / 937)** | - |
+| 🏅 | **스마트 제조 AI Agent 해커톤** | **본선 6th / 16** | - |
 
 ### 📊 Competition History
 
