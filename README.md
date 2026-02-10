@@ -6,7 +6,7 @@
 🔧 본전공: 기계공학과 | 🤖 복수전공: 인공지능응용학과
 
 [![Gmail](https://img.shields.io/badge/Gmail-royaljin831@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:royaljin831@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-jinnwoook-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jinnwoook)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-wookjin831-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wookjin831/)
 
 </div>
 
