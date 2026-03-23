@@ -30,13 +30,13 @@
   <tr>
     <td><b>2024.12 ~ 2025.12</b></td>
     <td>🔬 <b>KIST 바이오닉스연구단</b></td>
-    <td>전식상황 베어링 신뢰성 연구<br><i>(현대자동차 과제)</i></td>
+    <td>전식상황 베어링 신뢰성 연구<br><i>(현대자동차 전동화 랩 과제)</i></td>
     <td><a href="https://github.com/jinnwoook/RUL-Prediction-using-Bearing-Degradation-Data">🔗 Bearing RUL Prediction</a></td>
   </tr>
   <tr>
     <td><b>2025.12 ~ 2026.02</b></td>
     <td>🔬 <b>KIST 차세대반도체연구소</b></td>
-    <td>뉴로모픽 칩 · SNN 알고리즘<br>VLA · Isaac Sim · 로봇스트</td>
+    <td>뉴로모픽 칩 · SNN<br>VLA · Isaac Sim · Robosuite</td>
     <td>-</td>
   </tr>
 </table>
