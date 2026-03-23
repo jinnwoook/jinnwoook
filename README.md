@@ -12,6 +12,37 @@
 
 ---
 
+## 📋 Education & Experience
+
+<table>
+  <tr>
+    <th>기간</th>
+    <th>기관</th>
+    <th>내용</th>
+    <th>관련 프로젝트</th>
+  </tr>
+  <tr>
+    <td><b>2022.03 ~ 2026.08</b></td>
+    <td>🎓 <b>서울과학기술대학교</b></td>
+    <td>기계공학과 (본전공)<br>인공지능응용학과 (복수전공)</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td><b>2024.12 ~ 2025.12</b></td>
+    <td>🔬 <b>KIST 바이오닉스연구단</b></td>
+    <td>전식상황 베어링 신뢰성 연구<br><i>(현대자동차 과제)</i></td>
+    <td><a href="https://github.com/jinnwoook/RUL-Prediction-using-Bearing-Degradation-Data">🔗 Bearing RUL Prediction</a></td>
+  </tr>
+  <tr>
+    <td><b>2025.12 ~ 2026.02</b></td>
+    <td>🔬 <b>KIST 차세대반도체연구소</b></td>
+    <td>뉴로모픽 칩 · SNN 알고리즘<br>VLA · Isaac Sim · 로봇스트</td>
+    <td>-</td>
+  </tr>
+</table>
+
+---
+
 ## 🏆 Dacon Ranking
 
 <div align="center">
