@@ -31,7 +31,7 @@
     <td><b>2024.12 ~ 2025.12</b></td>
     <td>🔬 <b>KIST 바이오닉스연구단</b></td>
     <td>전식상황 베어링 신뢰성 연구<br><i>(현대자동차 전동화 랩 과제)</i></td>
-    <td><a href="https://github.com/jinnwoook/RUL-Prediction-using-Bearing-Degradation-Data">🔗 Bearing RUL Prediction</a></td>
+    <td><a href="https://github.com/jinnwoook/Bearing-Vibration-Analysis-Dashboard">🔗 Bearing Vibration Analysis Dashboard</a></td>
   </tr>
   <tr>
     <td><b>2025.12 ~ 2026.02</b></td>
