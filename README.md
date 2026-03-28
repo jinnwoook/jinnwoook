@@ -25,7 +25,7 @@
     <td><b>2022.03 ~ 2026.08</b></td>
     <td>🎓 <b>서울과학기술대학교</b></td>
     <td>기계공학과 (본전공)<br>인공지능응용학과 (복수전공)</td>
-    <td><a href="https://github.com/jinnwoook/CCTV-Fire-Detection-Firefighting-Robot">🔗 CCTV 기반 화재 탐지 AI · 자율주행 소화 로봇 (캡스톤디자인)</a></td>
+    <td><a href="https://github.com/jinnwoook/CCTV-Fire-Detection-Firefighting-Robot">🔗 CCTV 기반 화재 탐지 AI · 자율주행 소화 로봇 (캡스톤디자인)</a><br><a href="https://github.com/jinnwoook/K-ICT-Satellite-Segmentation-Practice">🔗 K-ICT 위성 이미지 Segmentation 실습 (박선영 교수 지도, 단기 인턴 2024.03~06)</a></td>
   </tr>
   <tr>
     <td><b>2024.12 ~ 2025.12</b></td>
