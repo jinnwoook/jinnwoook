@@ -61,7 +61,7 @@
 | 🥇 | **데이콘 x BDA 제2회 학습자 수료 예측 AI** | 8 / 733 | **1.1%** | `정형 · 분류` | [🔗](https://dacon.io/competitions/official/236664/codeshare/13924?page=1&dtype=recent) |
 | 🥇 | **제2회 Medical AI (MAI) 경진대회** | 7 / 477 | **1.5%** | `정형 · 바이오 · 분류` | - |
 | 🥇 | **LG Aimers 6기** — 난임 임신 성공 여부 예측 (온라인) | 15 / 794 | **1.9%** | `정형 · 바이오 · 분류` | [🔗](https://github.com/jinnwoook/LGaimers_6th) |
-| 🥇 | **토스 NEXT ML CHALLENGE** — 광고 클릭 예측 (CTR) | 16 / 709 | **2.3%** | `정형 · 분류` | - |
+| 🥇 | **토스 NEXT ML CHALLENGE** — 광고 클릭 예측 (CTR) | 16 / 709 | **2.3%** | `정형 · 분류` | [🔗](https://dacon.io/competitions/official/236575/leaderboard) |
 | 🥇 | **제3회 국민대학교 AI빅데이터 분석 경진대회** | 25 / 960 | **2.6%** | `정형 · 시계열` | [🔗](https://dacon.io/competitions/official/236619/leaderboard) |
 | 🥇 | **Visually-rich Document Understanding — 2025 Samsung AI Challenge** | 2 / 70 | **2.9%** | `Vision · Document AI` | [🔗](https://github.com/jinnwoook/Visually-rich-Document-Understanding-2025-Samsung-AI-Challenge) |
 | 🥈 | **HAI 헥토 AI Challenge** — 2025 하반기 딥페이크 탐지 | 23 / 458 | **5.0%** | `Vision · 딥페이크 탐지` | [🔗](https://github.com/jinnwoook/Deepfake-Detection-AI-Development) |
@@ -102,7 +102,7 @@
 | **KSPHM-KIMM 베어링 잔여수명 예측** | **7th** | [🔗](https://github.com/jinnwoook/RUL-Prediction-using-Bearing-Degradation-Data) |
 | **LG Aimers 4기** - B2B 영업 기회 예측 | **본선 14th** | [🔗](https://github.com/jinnwoook/LGaimers_4th) |
 | **LG Aimers 6기** - 난임 환자 임신 성공률 예측 | 예선 15/794 → 본선 21/27 | [🔗](https://github.com/jinnwoook/LGaimers_6th) |
-| **토스 NEXT ML CHALLENGE** - CTR 예측 | **16th / 709** | - |
+| **토스 NEXT ML CHALLENGE** - CTR 예측 | **16th / 709** | [🔗](https://dacon.io/competitions/official/236575/leaderboard) |
 | **제3회 국민대학교 AI 빅데이터 분석 경진대회** | **25th / 960** | [🔗](https://dacon.io/competitions/official/236619/leaderboard) |
 | **2025 전력사용량 예측 AI 경진대회** | 48th / 934 | [🔗](https://dacon.io/competitions/official/236531/leaderboard) |
 | **HAI 헥토 AI Challenge** - Deepfake Detection | **23rd** | [🔗](https://github.com/jinnwoook/Deepfake-Detection-AI-Development) |
