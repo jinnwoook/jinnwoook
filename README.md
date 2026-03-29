@@ -103,8 +103,8 @@
 | **LG Aimers 4기** - B2B 영업 기회 예측 | **본선 14th** | [🔗](https://github.com/jinnwoook/LGaimers_4th) |
 | **LG Aimers 6기** - 난임 환자 임신 성공률 예측 | 예선 15/794 → 본선 21/27 | [🔗](https://github.com/jinnwoook/LGaimers_6th) |
 | **토스 NEXT ML CHALLENGE** - CTR 예측 | **16th / 709** | - |
-| **제3회 국민대학교 AI 빅데이터 분석 경진대회** | **25th / 960** | - |
-| **2025 전력사용량 예측 AI 경진대회** | 48th / 934 | - |
+| **제3회 국민대학교 AI 빅데이터 분석 경진대회** | **25th / 960** | [🔗](https://dacon.io/competitions/official/236619/leaderboard) |
+| **2025 전력사용량 예측 AI 경진대회** | 48th / 934 | [🔗](https://dacon.io/competitions/official/236531/leaderboard) |
 | **HAI 헥토 AI Challenge** - Deepfake Detection | **23rd** | [🔗](https://github.com/jinnwoook/Deepfake-Detection-AI-Development) |
 
 ---
