@@ -65,7 +65,7 @@
 | 🥇 | **제3회 국민대학교 AI빅데이터 분석 경진대회** | 25 / 960 | **2.6%** | `정형 · 시계열` | [🔗](https://dacon.io/competitions/official/236619/leaderboard) |
 | 🥇 | **Visually-rich Document Understanding — 2025 Samsung AI Challenge** | 2 / 70 | **2.9%** | `Vision · Document AI` | [🔗](https://github.com/jinnwoook/Visually-rich-Document-Understanding-2025-Samsung-AI-Challenge) |
 | 🥈 | **HAI 헥토 AI Challenge** — 2025 하반기 딥페이크 탐지 | 23 / 458 | **5.0%** | `Vision · 딥페이크 탐지` | [🔗](https://github.com/jinnwoook/Deepfake-Detection-AI-Development) |
-| 🥈 | **2025 전력사용량 예측 AI 경진대회** | 48 / 934 | **5.1%** | `정형 · 시계열` | - |
+| 🥈 | **2025 전력사용량 예측 AI 경진대회** | 48 / 934 | **5.1%** | `정형 · 시계열` | [🔗](https://dacon.io/competitions/official/236531/leaderboard) |
 | 🥈 | **LG Aimers 3기** — 온라인 채널 판매량 예측 (온라인) | 39 / 747 | **5.2%** | `정형 · 시계열` | [🔗](https://github.com/jinnwoook/LGaimers_3th) |
 | 🥈 | **LG Aimers 3기** — 온라인 채널 판매량 예측 (본선) | 4 / 43 | **9.3%** | `정형 · 시계열` | [🔗](https://github.com/jinnwoook/LGaimers_3th) |
 | 📊 | **2023 Samsung AI Challenge** — Camera-Invariant Domain Adaptation | 54 / 212 | **25.5%** | `Vision · Segmentation` | - |
