@@ -53,31 +53,30 @@
 
 <div align="center">
 
-| 등급 | 대회명 | 순위 | 상위 % |
-|:----:|:------|:----:|:------:|
-| 🏆 | **LG Aimers 8기** — 모델 경량화 온라인 해커톤 | 4 / 628 | **0.6%** |
-| 🏆 | **운수종사자 인지특성 기반 교통사고 위험 예측 AI** | 3 / 437 | **0.7%** |
-| 🏆 | **K리그-서울시립대 공개 AI 경진대회** | 9 / 937 | **1.0%** |
-| 🥇 | **데이콘 x BDA 제2회 학습자 수료 예측 AI** | 8 / 733 | **1.1%** |
-| 🥇 | **제2회 Medical AI (MAI) 경진대회** | 7 / 477 | **1.5%** |
-| 🥇 | **LG Aimers 6기** — 난임 임신 성공 여부 예측 (온라인) | 15 / 794 | **1.9%** |
-| 🥇 | **토스 NEXT ML CHALLENGE** — 광고 클릭 예측 (CTR) | 16 / 709 | **2.3%** |
-| 🥇 | **제3회 국민대학교 AI빅데이터 분석 경진대회** | 25 / 960 | **2.6%** |
-| 🥇 | **Visually-rich Document Understanding — 2025 Samsung AI Challenge** | 2 / 70 | **2.9%** |
-| 🥈 | **HAI 헥토 AI Challenge** — 2025 하반기 딥페이크 탐지 | 23 / 458 | **5.0%** |
-| 🥈 | **2025 전력사용량 예측 AI 경진대회** | 48 / 934 | **5.1%** |
-| 🥈 | **LG Aimers 3기** — 온라인 채널 판매량 예측 (온라인) | 39 / 747 | **5.2%** |
-| 🥈 | **LG Aimers 3기** — 온라인 채널 판매량 예측 (본선) | 4 / 43 | **9.3%** |
-| 🥉 | **2024 생명연구자원 AI활용 경진대회** | 105 / 940 | **11.2%** |
-| 🥉 | **제주 특산물 가격 예측 AI 경진대회** | 194 / 1,093 | **17.7%** |
-| 🥉 | **제4회 ETRI 휴먼이해 AI 논문경진대회** | 71 / 370 | **19.2%** |
-| 📊 | **2023 Samsung AI Challenge** — Camera-Invariant Domain Adaptation | 54 / 212 | **25.5%** |
-| 📊 | **2025 금융 AI Challenge** — 금융 AI 모델 경쟁 | 81 / 283 | **28.6%** |
-| 📊 | **스마트 제조 AI Agent 해커톤** (본선) | 6 / 16 | **37.5%** |
-| 📊 | **2024 Samsung AI Challenge** — Machine Learning Force Fields | 58 / 115 | **50.4%** |
-| 📊 | **HAI 헥토 AI Challenge** — 2025 상반기 | 395 / 748 | **52.8%** |
-| 📊 | **LG Aimers 6기** — 난임 임신 성공률 예측 (본선) | 21 / 27 | **77.8%** |
-| ➕ | **구조물 안정성 물리 추론 AI 경진대회** | 참가 | — |
+| 등급 | 대회명 | 순위 | 상위 % | Task | Repo |
+|:----:|:------|:----:|:------:|:----:|:----:|
+| 🏆 | **LG Aimers 8기** — 모델 경량화 온라인 해커톤 | 4 / 628 | **0.6%** | `LLM · 경량화` | - |
+| 🏆 | **운수종사자 인지특성 기반 교통사고 위험 예측 AI** | 3 / 437 | **0.7%** | `정형 · 회귀` | [🔗](https://github.com/jinnwoook/Traffic-Accident-Risk-Prediction-using-Cognitive-Characteristics-of-Commercial-Drivers) |
+| 🏆 | **K리그-서울시립대 공개 AI 경진대회** | 9 / 937 | **1.0%** | `정형 · 시계열` | [🔗](https://github.com/jinnwoook/jinnwoook/blob/main/portfolio/kleague_award.pdf) |
+| 🥇 | **데이콘 x BDA 제2회 학습자 수료 예측 AI** | 8 / 733 | **1.1%** | `정형 · 분류` | - |
+| 🥇 | **제2회 Medical AI (MAI) 경진대회** | 7 / 477 | **1.5%** | `정형 · 바이오 · 분류` | - |
+| 🥇 | **LG Aimers 6기** — 난임 임신 성공 여부 예측 (온라인) | 15 / 794 | **1.9%** | `정형 · 바이오 · 분류` | [🔗](https://github.com/jinnwoook/LGaimers_6th) |
+| 🥇 | **토스 NEXT ML CHALLENGE** — 광고 클릭 예측 (CTR) | 16 / 709 | **2.3%** | `정형 · 분류` | - |
+| 🥇 | **제3회 국민대학교 AI빅데이터 분석 경진대회** | 25 / 960 | **2.6%** | `정형 · 시계열` | - |
+| 🥇 | **Visually-rich Document Understanding — 2025 Samsung AI Challenge** | 2 / 70 | **2.9%** | `Vision · Document AI` | [🔗](https://github.com/jinnwoook/Visually-rich-Document-Understanding-2025-Samsung-AI-Challenge) |
+| 🥈 | **HAI 헥토 AI Challenge** — 2025 하반기 딥페이크 탐지 | 23 / 458 | **5.0%** | `Vision · 딥페이크 탐지` | [🔗](https://github.com/jinnwoook/Deepfake-Detection-AI-Development) |
+| 🥈 | **2025 전력사용량 예측 AI 경진대회** | 48 / 934 | **5.1%** | `정형 · 시계열` | - |
+| 🥈 | **LG Aimers 3기** — 온라인 채널 판매량 예측 (온라인) | 39 / 747 | **5.2%** | `정형 · 시계열` | [🔗](https://github.com/jinnwoook/LGaimers_3th) |
+| 🥈 | **LG Aimers 3기** — 온라인 채널 판매량 예측 (본선) | 4 / 43 | **9.3%** | `정형 · 시계열` | [🔗](https://github.com/jinnwoook/LGaimers_3th) |
+| 🥉 | **2024 생명연구자원 AI활용 경진대회** | 105 / 940 | **11.2%** | `정형 · 바이오 · 분류` | - |
+| 🥉 | **제주 특산물 가격 예측 AI 경진대회** | 194 / 1,093 | **17.7%** | `정형 · 회귀` | - |
+| 🥉 | **제4회 ETRI 휴먼이해 AI 논문경진대회** | 71 / 370 | **19.2%** | `정형 · 분류` | - |
+| 📊 | **2023 Samsung AI Challenge** — Camera-Invariant Domain Adaptation | 54 / 212 | **25.5%** | `Vision · Segmentation` | - |
+| 📊 | **2025 금융 AI Challenge** — 금융 AI 모델 경쟁 | 81 / 283 | **28.6%** | `LLM · 생성형 AI` | - |
+| 📊 | **스마트 제조 AI Agent 해커톤** (본선) | 6 / 16 | **37.5%** | `LLM · AI Agent` | [🔗](https://github.com/jinnwoook/jinnwoook/blob/main/portfolio/smart-manufacturing-agent/README.md) |
+| 📊 | **2024 Samsung AI Challenge** — Machine Learning Force Fields | 58 / 115 | **50.4%** | `정형 · 분자 시뮬레이션` | - |
+| 📊 | **HAI 헥토 AI Challenge** — 2025 상반기 | 395 / 748 | **52.8%** | `Vision · 분류` | - |
+| 📊 | **LG Aimers 6기** — 난임 임신 성공률 예측 (본선) | 21 / 27 | **77.8%** | `정형 · 바이오 · 회귀` | [🔗](https://github.com/jinnwoook/LGaimers_6th) |
 
 </div>
 
