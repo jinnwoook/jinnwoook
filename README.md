@@ -8,7 +8,54 @@
 [![Gmail](https://img.shields.io/badge/Gmail-royaljin831@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:royaljin831@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-wookjin831-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wookjin831/)
 
+<br>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?style=flat-square&logo=xgboost&logoColor=white)
+![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square&logo=catboost&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![LabVIEW](https://img.shields.io/badge/LabVIEW-FFDB00?style=flat-square&logo=ni&logoColor=black)
+![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white)
+
 </div>
+
+<br>
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
+### 📊 Qualifications
+
+| 항목 | 내용 |
+|:---:|:---|
+| 🎓 **학점 (GPA)** | 4.05 / 4.5 |
+| 🗣️ **어학** | OPIc **IH** (English) |
+| 📜 **자격증** | 빅데이터분석기사 |
+| 📜 | ADsP (데이터분석 준전문가) |
+| 📜 | 6 Sigma **Black Belt** |
+| 📜 | 6 Sigma **Green Belt** |
+
+</td>
+    <td valign="top" width="50%">
+
+### 🔬 Research Interests
+
+| 분야 | 키워드 |
+|:---:|:---|
+| ⚙️ **신뢰성 공학** | PHM · RUL 예측 · 고장 진단 |
+| 📡 **신호 처리** | 진동/음향 분석 · 이상 탐지 |
+| 🤖 **기계 학습** | 시계열 예측 · 분류 · 이상탐지 |
+| 🧠 **경량 AI** | 모델 압축 · LoRA · 양자화 |
+| 🦾 **로봇 지능** | VLA · 자율화 시스템 · SNN |
+| 🏭 **스마트 제조** | 디지털 트윈 · AI Agent |
+
+</td>
+  </tr>
+</table>
 
 ---
 
@@ -145,22 +192,6 @@
 | **제3회 국민대학교 AI 빅데이터 분석 경진대회** | **25th / 960** | [🔗](https://dacon.io/competitions/official/236619/leaderboard) |
 | **2025 전력사용량 예측 AI 경진대회** | 48th / 934 | [🔗](https://dacon.io/competitions/official/236531/leaderboard) |
 | **HAI 헥토 AI Challenge** - Deepfake Detection | **23rd** | [🔗](https://github.com/jinnwoook/Deepfake-Detection-AI-Development) |
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?style=flat-square&logo=xgboost&logoColor=white)
-![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square&logo=catboost&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
-</div>
 
 ---
 
