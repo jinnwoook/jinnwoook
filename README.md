@@ -62,7 +62,7 @@
 | 🥇 | **제2회 Medical AI (MAI) 경진대회** | 7 / 477 | **1.5%** | `정형 · 바이오 · 분류` | - |
 | 🥇 | **LG Aimers 6기** — 난임 임신 성공 여부 예측 (온라인) | 15 / 794 | **1.9%** | `정형 · 바이오 · 분류` | [🔗](https://github.com/jinnwoook/LGaimers_6th) |
 | 🥇 | **토스 NEXT ML CHALLENGE** — 광고 클릭 예측 (CTR) | 16 / 709 | **2.3%** | `정형 · 분류` | - |
-| 🥇 | **제3회 국민대학교 AI빅데이터 분석 경진대회** | 25 / 960 | **2.6%** | `정형 · 시계열` | - |
+| 🥇 | **제3회 국민대학교 AI빅데이터 분석 경진대회** | 25 / 960 | **2.6%** | `정형 · 시계열` | [🔗](https://dacon.io/competitions/official/236619/leaderboard) |
 | 🥇 | **Visually-rich Document Understanding — 2025 Samsung AI Challenge** | 2 / 70 | **2.9%** | `Vision · Document AI` | [🔗](https://github.com/jinnwoook/Visually-rich-Document-Understanding-2025-Samsung-AI-Challenge) |
 | 🥈 | **HAI 헥토 AI Challenge** — 2025 하반기 딥페이크 탐지 | 23 / 458 | **5.0%** | `Vision · 딥페이크 탐지` | [🔗](https://github.com/jinnwoook/Deepfake-Detection-AI-Development) |
 | 🥈 | **2025 전력사용량 예측 AI 경진대회** | 48 / 934 | **5.1%** | `정형 · 시계열` | - |
