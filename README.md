@@ -58,7 +58,7 @@
 | 🏆 | **LG Aimers 8기** — 모델 경량화 온라인 해커톤 | 4 / 628 | **0.6%** | `LLM · 경량화` | - |
 | 🏆 | **운수종사자 인지특성 기반 교통사고 위험 예측 AI** | 3 / 437 | **0.7%** | `정형 · 회귀` | [🔗](https://github.com/jinnwoook/Traffic-Accident-Risk-Prediction-using-Cognitive-Characteristics-of-Commercial-Drivers) |
 | 🏆 | **K리그-서울시립대 공개 AI 경진대회** | 9 / 937 | **1.0%** | `정형 · 시계열` | [🔗](https://github.com/jinnwoook/jinnwoook/blob/main/portfolio/kleague_award.pdf) |
-| 🥇 | **데이콘 x BDA 제2회 학습자 수료 예측 AI** | 8 / 733 | **1.1%** | `정형 · 분류` | - |
+| 🥇 | **데이콘 x BDA 제2회 학습자 수료 예측 AI** | 8 / 733 | **1.1%** | `정형 · 분류` | [🔗](https://dacon.io/competitions/official/236664/codeshare/13924?page=1&dtype=recent) |
 | 🥇 | **제2회 Medical AI (MAI) 경진대회** | 7 / 477 | **1.5%** | `정형 · 바이오 · 분류` | - |
 | 🥇 | **LG Aimers 6기** — 난임 임신 성공 여부 예측 (온라인) | 15 / 794 | **1.9%** | `정형 · 바이오 · 분류` | [🔗](https://github.com/jinnwoook/LGaimers_6th) |
 | 🥇 | **토스 NEXT ML CHALLENGE** — 광고 클릭 예측 (CTR) | 16 / 709 | **2.3%** | `정형 · 분류` | - |
