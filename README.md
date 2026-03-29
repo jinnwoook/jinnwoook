@@ -43,7 +43,7 @@
 
 ---
 
-## 🏆 Dacon Ranking
+## 🏆 Dacon Ranking &nbsp; [![Dacon](https://img.shields.io/badge/DACON-프로필_보기-00C4C4?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0tMSAxNEg5VjhoMnY4em00IDBoLTJWOGgydjh6Ii8+PC9zdmc+&logoColor=white)](https://dacon.io/myprofile/482817/home)
 
 <div align="center">
 <img src="assets/dacon_ranking.png" alt="Dacon Ranking" width="600">
