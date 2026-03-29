@@ -43,6 +43,45 @@
 
 ---
 
+## 📰 Featured in the News
+
+<div align="center">
+
+*언론이 주목한 순간들*
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://www.lgresearch.ai/news/view?seq=547">
+        <img src="https://img.shields.io/badge/LG_AI연구원-공식_뉴스-A50034?style=for-the-badge&logo=lg&logoColor=white" alt="LG Research News"><br><br>
+        <b>🤖 LG Aimers 6기 해커톤</b><br>
+        난임 환자 임신 성공 예측 AI 모델 개발<br>2,000명 지원 → 98명 본선 진출<br><br>
+        <sub>📅 2025.04.07 · LG AI연구원</sub>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://aai.seoultech.ac.kr/information/news?do=view&profboardidx=0&bnum=57756&bidx=552990&cate=7&allboard=false&nowpage=2">
+        <img src="https://img.shields.io/badge/서울과기대-인공지능응용학과-003087?style=for-the-badge&logo=academia&logoColor=white" alt="SeoulTech AAI News"><br><br>
+        <b>🏆 Data Creator Camp 최우수상</b><br>
+        한국지능정보사회진흥원(NIA) 주최<br>추천시스템 AI 프로젝트 전국 1위<br><br>
+        <sub>📅 2024.12.02 · 서울과기대 AI학과</sub>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://computer.seoultech.ac.kr/notice/news?do=view&profboardidx=0&bnum=58475&bidx=574678&cate=7&allboard=false&nowpage=4">
+        <img src="https://img.shields.io/badge/서울과기대-컴퓨터공학과-1428A0?style=for-the-badge&logo=samsung&logoColor=white" alt="SeoulTech CS News"><br><br>
+        <b>🥈 Samsung AI Challenge 2025 우수상</b><br>
+        시각적 문서 이해 멀티모달 AI 개발<br>77팀 중 2위 · 상금 500만원<br><br>
+        <sub>📅 2025.11.13 · 서울과기대 컴퓨터공학과</sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
 ## 🏆 Dacon Ranking &nbsp; [![Dacon](https://img.shields.io/badge/DACON-프로필_보기-00C4C4?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0tMSAxNEg5VjhoMnY4em00IDBoLTJWOGgydjh6Ii8+PC9zdmc+&logoColor=white)](https://dacon.io/myprofile/482817/home)
 
 <div align="center">
