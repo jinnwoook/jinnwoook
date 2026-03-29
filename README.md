@@ -37,7 +37,7 @@
     <td><b>2025.12 ~ 2026.02</b></td>
     <td>🔬 <b>KIST 차세대반도체연구소</b></td>
     <td>뉴로모픽 칩 · SNN<br>VLA · Isaac Sim · Robosuite</td>
-    <td>-</td>
+    <td><a href="https://github.com/jinnwoook/OpenVLA-Lab-Review">🔗 OpenVLA Lab Review (Paper Review + Isaac Sim Demo)</a></td>
   </tr>
 </table>
 
