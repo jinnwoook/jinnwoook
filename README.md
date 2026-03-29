@@ -28,30 +28,28 @@
   <tr>
     <td valign="top" width="50%">
 
-### 📊 Qualifications
+**Qualifications**
 
-| 항목 | 내용 |
-|:---:|:---|
-| 🎓 **학점 (GPA)** | 4.05 / 4.5 |
-| 🗣️ **어학** | OPIc **IH** (English) |
-| 📜 **자격증** | 빅데이터분석기사 |
-| 📜 | ADsP (데이터분석 준전문가) |
-| 📜 | 6 Sigma **Black Belt** |
-| 📜 | 6 Sigma **Green Belt** |
+| | |
+|:---|:---|
+| GPA | 4.05 / 4.5 |
+| English | OPIc IH |
+| Certificates | Big Data Analyst (빅데이터분석기사) |
+| | ADsP |
+| | 6 Sigma Black Belt |
+| | 6 Sigma Green Belt |
 
 </td>
     <td valign="top" width="50%">
 
-### 🔬 Research Interests
+**Research Interests**
 
-| 분야 | 키워드 |
-|:---:|:---|
-| ⚙️ **신뢰성 공학** | PHM · RUL 예측 · 고장 진단 |
-| 📡 **신호 처리** | 진동/음향 분석 · 이상 탐지 |
-| 🤖 **기계 학습** | 시계열 예측 · 분류 · 이상탐지 |
-| 🧠 **경량 AI** | 모델 압축 · LoRA · 양자화 |
-| 🦾 **로봇 지능** | VLA · 자율화 시스템 · SNN |
-| 🏭 **스마트 제조** | 디지털 트윈 · AI Agent |
+- Reliability Engineering & Prognostics (PHM / RUL)
+- AI-driven Fault Detection & Diagnosis
+- Vibration / Signal Processing & Anomaly Detection
+- Time-series Forecasting & Tabular ML
+- Edge AI & Model Compression
+- Robot Learning (VLA, SNN, Autonomous Systems)
 
 </td>
   </tr>
