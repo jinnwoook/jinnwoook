@@ -55,7 +55,7 @@
 
 | 등급 | 대회명 | 순위 | 상위 % | Task | Repo |
 |:----:|:------|:----:|:------:|:----:|:----:|
-| 🏆 | **LG Aimers 8기** — 모델 경량화 온라인 해커톤 | 4 / 628 | **0.6%** | `LLM · 경량화` | - |
+| 🏆 | **LG Aimers 8기** — 모델 경량화 온라인 해커톤 | 4 / 628 | **0.6%** | `LLM · 경량화` | [🔗](https://dacon.io/competitions/official/236673/leaderboard) |
 | 🏆 | **운수종사자 인지특성 기반 교통사고 위험 예측 AI** | 3 / 437 | **0.7%** | `정형 · 회귀` | [🔗](https://github.com/jinnwoook/Traffic-Accident-Risk-Prediction-using-Cognitive-Characteristics-of-Commercial-Drivers) |
 | 🏆 | **K리그-서울시립대 공개 AI 경진대회** | 9 / 937 | **1.0%** | `정형 · 시계열` | [🔗](https://github.com/jinnwoook/jinnwoook/blob/main/portfolio/kleague_award.pdf) |
 | 🥇 | **데이콘 x BDA 제2회 학습자 수료 예측 AI** | 8 / 733 | **1.1%** | `정형 · 분류` | [🔗](https://dacon.io/competitions/official/236664/codeshare/13924?page=1&dtype=recent) |
