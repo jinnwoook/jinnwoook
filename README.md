@@ -34,7 +34,7 @@
 |:---|:---|
 | GPA | 4.05 / 4.5 |
 | English | OPIc IH |
-| Certificates | Big Data Analyst (빅데이터분석기사) |
+| Certificates | ADP (Advanced Data Analytics Semi-Professional, 필기 합격) |
 | | ADsP |
 | | 6 Sigma Black Belt |
 | | 6 Sigma Green Belt |
