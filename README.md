@@ -68,14 +68,9 @@
 | 🥈 | **2025 전력사용량 예측 AI 경진대회** | 48 / 934 | **5.1%** | `정형 · 시계열` | - |
 | 🥈 | **LG Aimers 3기** — 온라인 채널 판매량 예측 (온라인) | 39 / 747 | **5.2%** | `정형 · 시계열` | [🔗](https://github.com/jinnwoook/LGaimers_3th) |
 | 🥈 | **LG Aimers 3기** — 온라인 채널 판매량 예측 (본선) | 4 / 43 | **9.3%** | `정형 · 시계열` | [🔗](https://github.com/jinnwoook/LGaimers_3th) |
-| 🥉 | **2024 생명연구자원 AI활용 경진대회** | 105 / 940 | **11.2%** | `정형 · 바이오 · 분류` | - |
-| 🥉 | **제주 특산물 가격 예측 AI 경진대회** | 194 / 1,093 | **17.7%** | `정형 · 회귀` | - |
-| 🥉 | **제4회 ETRI 휴먼이해 AI 논문경진대회** | 71 / 370 | **19.2%** | `정형 · 분류` | - |
 | 📊 | **2023 Samsung AI Challenge** — Camera-Invariant Domain Adaptation | 54 / 212 | **25.5%** | `Vision · Segmentation` | - |
 | 📊 | **2025 금융 AI Challenge** — 금융 AI 모델 경쟁 | 81 / 283 | **28.6%** | `LLM · 생성형 AI` | - |
 | 📊 | **스마트 제조 AI Agent 해커톤** (본선) | 6 / 16 | **37.5%** | `LLM · AI Agent` | [🔗](https://github.com/jinnwoook/jinnwoook/blob/main/portfolio/smart-manufacturing-agent/README.md) |
-| 📊 | **2024 Samsung AI Challenge** — Machine Learning Force Fields | 58 / 115 | **50.4%** | `정형 · 분자 시뮬레이션` | - |
-| 📊 | **HAI 헥토 AI Challenge** — 2025 상반기 | 395 / 748 | **52.8%** | `Vision · 분류` | - |
 | 📊 | **LG Aimers 6기** — 난임 임신 성공률 예측 (본선) | 21 / 27 | **77.8%** | `정형 · 바이오 · 회귀` | [🔗](https://github.com/jinnwoook/LGaimers_6th) |
 
 </div>
