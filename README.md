@@ -69,7 +69,7 @@
 | 🥈 | **LG Aimers 3기** — 온라인 채널 판매량 예측 (온라인) | 39 / 747 | **5.2%** | `정형 · 시계열` | [🔗](https://github.com/jinnwoook/LGaimers_3th) |
 | 🥈 | **LG Aimers 3기** — 온라인 채널 판매량 예측 (본선) | 4 / 43 | **9.3%** | `정형 · 시계열` | [🔗](https://github.com/jinnwoook/LGaimers_3th) |
 | 📊 | **2023 Samsung AI Challenge** — Camera-Invariant Domain Adaptation | 54 / 212 | **25.5%** | `Vision · Segmentation` | [🔗](https://dacon.io/competitions/official/236132/codeshare/9176?page=1&dtype=recent) |
-| 📊 | **2025 금융 AI Challenge** — 금융 AI 모델 경쟁 | 81 / 283 | **28.6%** | `LLM · 생성형 AI` | - |
+| 📊 | **2025 금융 AI Challenge** — 금융 AI 모델 경쟁 | 81 / 283 | **28.6%** | `LLM · 생성형 AI` | [🔗](https://dacon.io/competitions/official/236527/leaderboard) |
 | 📊 | **스마트 제조 AI Agent 해커톤** (본선) | 6 / 16 | **37.5%** | `LLM · AI Agent` | [🔗](https://github.com/jinnwoook/jinnwoook/blob/main/portfolio/smart-manufacturing-agent/README.md) |
 | 📊 | **LG Aimers 6기** — 난임 임신 성공률 예측 (본선) | 21 / 27 | **77.8%** | `정형 · 바이오 · 회귀` | [🔗](https://github.com/jinnwoook/LGaimers_6th) |
 
