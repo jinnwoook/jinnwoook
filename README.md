@@ -130,6 +130,12 @@
 ## 🏆 Dacon Ranking &nbsp; [![Dacon](https://img.shields.io/badge/DACON-프로필_보기-00C4C4?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0tMSAxNEg5VjhoMnY4em00IDBoLTJWOGgydjh6Ii8+PC9zdmc+&logoColor=white)](https://dacon.io/myprofile/482817/competition)
 
 <div align="center">
+
+<sub><i>13만 AI 팀이 협업하는 국내 최대 데이터 사이언스 & 인공지능 경진대회 플랫폼</i></sub>
+
+</div>
+
+<div align="center">
 <img src="assets/dacon_ranking.png?v=2" alt="Dacon Ranking" width="600">
 
 **🏅 12 of 155,302 (Challenger)**
