@@ -132,7 +132,7 @@
 <div align="center">
 <img src="assets/dacon_ranking.png?v=2" alt="Dacon Ranking" width="600">
 
-**🏅 12 of 155,302 (챌린저)**
+**🏅 12 of 155,302 (Challenger)**
 
 </div>
 
